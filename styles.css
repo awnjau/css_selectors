@@ -8,15 +8,15 @@ h1{
 }
 img{
 
-  width:250px;height:auto;
+  width:500px;height:auto;
+}
+
+a:visited {
+  color: pink;
 }
 a:hover {
   color: plum;
 }
-a:link {
-  color: orchid;
-}
-
 .flex-container > div {
   font-size:150%;
   font-family:courier;
@@ -29,18 +29,17 @@ a:link {
   font-size:150%;
   font-family:courier;
   display: flex;
-  color:white;
   display:inline-block;
 
 
 }
 .div-1{
-  font-size:200%;
+  font-size:400%;
   background-color:sandybrown;
 }
 
 .div-2{
-  font-size:150%;
+  font-size:250%;
   font-family:courier;
   text-align:center;
   width:49%;
@@ -48,21 +47,21 @@ a:link {
 
 }
 .div-3{
-  font-size:150%;
+  font-size:250%;
   font-family:courier;
   text-align:center;
   width:49%;
   display:inline-block;
 }
 .div-4{
-  font-size:150%;
+  font-size:250%;
   font-family:courier;
   text-align:center;
   width:49%;
   display:inline-block;
 }
 .div-5{
-  font-size:150%;
+  font-size:250%;
   font-family:courier;
   text-align:center;
   width:49%;
