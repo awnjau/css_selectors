@@ -1,22 +1,70 @@
 body {
 
-  background-color:black;
+  background-color:peru;
 }
 h1{
   text-align:center;
+
 }
 img{
 
-  width:100px;height:auto;
+  width:250px;height:auto;
 }
 a:hover {
-  color: yellow;
+  color: plum;
+}
+a:link {
+  color: orchid;
 }
 
 .flex-container > div {
   font-size:150%;
   font-family:courier;
   display: flex;
-  justify-content: center;
-  background-color:black;
+  color:white;
+  display:inline-block;
+
+}
+.flex-container2 > div {
+  font-size:150%;
+  font-family:courier;
+  display: flex;
+  color:white;
+  display:inline-block;
+
+
+}
+.div-1{
+  font-size:200%;
+  background-color:sandybrown;
+}
+
+.div-2{
+  font-size:150%;
+  font-family:courier;
+  text-align:center;
+  width:49%;
+  display:inline-block;
+
+}
+.div-3{
+  font-size:150%;
+  font-family:courier;
+  text-align:center;
+  width:49%;
+  display:inline-block;
+}
+.div-4{
+  font-size:150%;
+  font-family:courier;
+  text-align:center;
+  width:49%;
+  display:inline-block;
+}
+.div-5{
+  font-size:150%;
+  font-family:courier;
+  text-align:center;
+  width:49%;
+  display:inline-block;
 }
