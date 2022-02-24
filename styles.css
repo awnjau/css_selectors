@@ -1,0 +1,16 @@
+body {
+
+  background-color:black;
+}
+h1{
+  text-align:center;
+}
+.imgcontainer > div {
+  font-size:150%;
+  font-family:courier;
+  display: flex;
+  justify-content: center;
+  color:white;
+}
+
+  
