@@ -10,7 +10,6 @@ h1{
   font-family:courier;
   display: flex;
   justify-content: center;
-  color:white;
+  background-color:black;
+  display:inline-block;
 }
-
-  
