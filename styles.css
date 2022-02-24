@@ -5,11 +5,18 @@ body {
 h1{
   text-align:center;
 }
-.imgcontainer > div {
+img{
+
+  width:100px;height:auto;
+}
+a:hover {
+  color: yellow;
+}
+
+.flex-container > div {
   font-size:150%;
   font-family:courier;
   display: flex;
   justify-content: center;
   background-color:black;
-  display:inline-block;
 }
